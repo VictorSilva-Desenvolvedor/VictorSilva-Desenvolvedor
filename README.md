@@ -55,7 +55,7 @@
 ###
 
 <div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=VictorSilva-Desenvolvedorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mvcvictorestudos@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/victor-paulo-da-silva-473136344" target="_blank" rel="noopener noreferrer">
