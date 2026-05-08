@@ -34,14 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva-Desenvolvedor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&exclude_repo=README.md" height="300" alt="languages graph"  />
-</div>
-
-###
-
 <h4 align="left">Como me contactar</h4>
 
 ###
