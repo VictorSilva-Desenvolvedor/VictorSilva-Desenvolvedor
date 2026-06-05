@@ -48,6 +48,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark&config=config.json">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/VictorSilva-Desenvolvedor?config=config.json">
+</picture>
 ###
 
 <h4 align="left">Como me contactar</h4>
