@@ -49,7 +49,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/your-github-username?theme=dark&config=config.json">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/VictorSilva-Desenvolvedor?theme=dark&config=config.json">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/VictorSilva-Desenvolvedor?config=config.json">
 </picture>
 ###
