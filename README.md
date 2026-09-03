@@ -70,7 +70,7 @@ public class VictorPaulo
 
 ### Projetos em destaque
 
-<!-- Troque NOME-DO-REPO pelo nome exato de cada repositorio. -->
+
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
