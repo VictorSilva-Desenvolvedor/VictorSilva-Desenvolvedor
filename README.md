@@ -82,17 +82,14 @@ public class VictorPaulo
 
 ### Estatísticas
 
-### Estatísticas
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/VictorSilva-Desenvolvedor/VictorSilva-Desenvolvedor/main/metrics.svg" alt="Estatísticas do GitHub" />
 
-<img src="https://raw.githubusercontent.com/VictorSilva-Desenvolvedor/VictorSilva-Desenvolvedor/main/metrics-languages.svg" width="45%" alt="Linguagens mais usadas" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSilva-Desenvolvedor&theme=github-dark-blue&hide_border=true&background=0d1117&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
+
 ---
 
 ### Contribuições
