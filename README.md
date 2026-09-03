@@ -1,10 +1,3 @@
-<!--
-  ============================================================
-  ANTES DE USAR: troque TODAS as ocorrências de VictorSilva-Desenvolvedor
-  pelo seu username do GitHub (Ctrl+H no editor).
-  ============================================================
--->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Victor%20Paulo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Go&descAlignY=55&descSize=16" width="100%" />
@@ -77,24 +70,13 @@ public class VictorPaulo
 
 ### Projetos em destaque
 
-<!--
-  Troque os "repo=" pelos nomes reais dos seus repositórios.
-  Os cards viram links clicáveis com preview de descrição e linguagem.
--->
+<!-- Troque NOME-DO-REPO pelo nome exato de cada repositorio. -->
 
-<div align="center">
-
-<a href="https://github.com/VictorSilva-Desenvolvedor/synapse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorSilva-Desenvolvedor&repo=synapse&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/VictorSilva-Desenvolvedor/arqlearn">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorSilva-Desenvolvedor&repo=arqlearn&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/VictorSilva-Desenvolvedor/calendario-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VictorSilva-Desenvolvedor&repo=calendario-web&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[Synapse](https://github.com/VictorSilva-Desenvolvedor/Synapse)** | App de bandeja que sincroniza vaults do Obsidian com o GitHub automaticamente | `.NET` `C#` |
+| **[ArqLearn](https://github.com/VictorSilva-Desenvolvedor/ArqLearn)** | Aplicativo mobile de estudos com trilhas e gamificação | `React Native` `Expo` `Go` |
+| **[Calendário Web](https://github.com/VictorSilva-Desenvolvedor/AppCasal)** | Aplicativo de casal completo, com funções diversas | `React` `Express` `MongoDB` |
 
 ---
 
@@ -102,16 +84,9 @@ public class VictorPaulo
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSilva-Desenvolvedor&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilva-Desenvolvedor&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSilva-Desenvolvedor&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSilva-Desenvolvedor&theme=github-dark-blue&hide_border=true&background=0d1117&locale=pt_BR" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VictorSilva-Desenvolvedor&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSilva-Desenvolvedor&theme=github-dark-blue&hide_border=true&background=0d1117&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
