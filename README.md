@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Victor%20Paulo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Go&descAlignY=55&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Victor%20Paulo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20.NET%20%C2%B7%20React%20%C2%B7%20Next.js&descAlignY=55&descSize=16" width="100%" />
 
 <a href="https://www.linkedin.com/in/victor-paulo-da-silva-473136344">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,8 +26,11 @@ public class VictorPaulo
 }
 ```
 
-- Trabalho com **.NET/C#** no backend e desktop, **React / React Native** no front.
+- **Engenheiro de Software na [Vigor Energy](https://www.linkedin.com/in/victor-paulo-da-silva-473136344)**, trabalhando no VigorHub com **Next.js (App Router)**, **React** e **Supabase** (Auth, Database e Edge Functions).
+- 3 anos de experiência em desenvolvimento web e integração de sistemas — passei por **.NET / ASP.NET MVC**, **Siemens OpCenter (MES)** e **TIA Portal**, do banco de dados à IHM.
+- Cursando o **8º período de Engenharia de Software** na Estácio (conclusão em dez/2026).
 - Gosto de código **limpo, modular e sem complexidade desnecessária** (KISS).
+- Inglês avançado (**EF SET C1**) para documentação técnica e projetos globais.
 - Sempre com algum projeto pessoal em andamento — é assim que eu aprendo de verdade.
 
 ---
@@ -74,27 +77,19 @@ public class VictorPaulo
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Synapse](https://github.com/VictorSilva-Desenvolvedor/Synapse)** | App de bandeja que sincroniza vaults do Obsidian com o GitHub automaticamente | `.NET` `C#` |
-| **[ArqLearn](https://github.com/VictorSilva-Desenvolvedor/ArqLearn)** | Aplicativo mobile de estudos com trilhas e gamificação | `React Native` `Expo` `Go` |
-| **[Calendário Web](https://github.com/VictorSilva-Desenvolvedor/AppCasal)** | Aplicativo de casal completo, com funções diversas | `React` `Express` `MongoDB` |
+| **[Synapse](https://github.com/VictorSilva-Desenvolvedor/Synapse)** | App de bandeja do Windows que faz commit e push automático de vaults do Obsidian para o GitHub, sem abrir o terminal | `.NET` `C#` |
+| **[ArqLearn](https://github.com/VictorSilva-Desenvolvedor/ArqLearn)** | App mobile de estudos de arquitetura, com trilhas progressivas e gamificação para manter a constância | `React Native` `Expo` `Go` |
+| **[AppCasal](https://github.com/VictorSilva-Desenvolvedor/AppCasal)** | Aplicativo web para casais: calendário compartilhado e organização da rotina a dois | `React` `Express` `MongoDB` |
 
 ---
 
-### Estatísticas
+### Atividade
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/VictorSilva-Desenvolvedor/VictorSilva-Desenvolvedor/main/metrics.svg" width="49%" alt="Linguagens mais usadas" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorSilva-Desenvolvedor&theme=github-dark-blue&hide_border=true&background=0d1117&locale=pt_BR" width="49%" alt="Sequência de contribuições" />
-
-</div>
-
----
-
-### Contribuições
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorSilva-Desenvolvedor/VictorSilva-Desenvolvedor/output/github-snake-dark.svg" />
