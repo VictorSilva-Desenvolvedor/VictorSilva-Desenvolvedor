@@ -35,3 +35,7 @@ jobs:
           plugin_languages_limit: 6
           plugin_languages_threshold: 1%
           plugin_languages_sections: most-used
+          plugin_languages_ignored: >-
+            html, scss, less, ren'py, python, cython, c, c++, java,
+            powershell, shell, dockerfile, makefile, batchfile, vbscript,
+            inno setup, procfile, ejs, jupyter notebook, tex, roff
